@@ -1,4 +1,4 @@
-import HeadphoneScroll from "@/components/HeadphoneScroll";
+import HeadphoneScroll from "@/components/PowerbankScroll";
 import ProductDetails from "@/components/ProductDetails";
 
 export default function Home() {
